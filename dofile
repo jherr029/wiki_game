@@ -1,0 +1,4 @@
+#!/bin/bash
+
+./cleanup
+scrapy crawl wiki -o wiki.json && nvim wiki.json

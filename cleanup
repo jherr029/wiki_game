@@ -1,0 +1,4 @@
+#!/bin/bash
+
+rm -f wiki.json
+rm -f wiki.csv

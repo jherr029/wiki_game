@@ -1,0 +1,4 @@
+#!/bin/bash
+
+#scrapy shell 'https://en.wikipedia.org/wiki/Investment_management'
+scrapy shell 'https://en.wikipedia.org/wiki/Financial_management'
